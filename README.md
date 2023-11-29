@@ -1,4 +1,4 @@
-# Github-Final-Project-Proposal
+# Insulin Project-Final-Project-Proposal
 What idea(s) do you have for your final project?
 Insulin bolus calculator, recipe maker, workout planner.
 
